@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var electron__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! electron */ \"electron\");\n/* harmony import */ var electron__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(electron__WEBPACK_IMPORTED_MODULE_0__);\n\nconst notificationWithoutImage = new electron__WEBPACK_IMPORTED_MODULE_0__[\"remote\"].Notification({\n  title: 'Basic notification',\n  body: 'Short message'\n});\nnotificationWithoutImage.addListener('click', (e, i) => {\n  console.log('Notification clicked');\n});\nnotificationWithoutImage.show();\n\n//# sourceURL=webpack:////src/setup.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var electron__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! electron */ \"electron\");\n/* harmony import */ var electron__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(electron__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var path__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! path */ \"path\");\n/* harmony import */ var path__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(path__WEBPACK_IMPORTED_MODULE_1__);\n\n // notificationWithImage\n\nconst notificationWithImage = new electron__WEBPACK_IMPORTED_MODULE_0__[\"remote\"].Notification({\n  title: 'Notification with image',\n  body: 'Short message plus a custom image',\n  icon: path__WEBPACK_IMPORTED_MODULE_1__[\"join\"](electron__WEBPACK_IMPORTED_MODULE_0__[\"remote\"].app.getAppPath(), '/appAssets/32x32.png')\n});\nnotificationWithImage.addListener('click', (e, i) => {\n  console.log('Notification clicked');\n});\nnotificationWithImage.show(); // notificationWithoutImage\n\nconst notificationWithoutImage = new electron__WEBPACK_IMPORTED_MODULE_0__[\"remote\"].Notification({\n  title: 'Basic notification',\n  body: 'Short message'\n});\nnotificationWithoutImage.addListener('click', (e, i) => {\n  console.log('Notification clicked');\n});\nnotificationWithoutImage.show();\n\n//# sourceURL=webpack:////src/setup.js?");
 
 /***/ }),
 
@@ -106,6 +106,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var elec
 /***/ (function(module, exports) {
 
 eval("module.exports = require(\"electron\");\n\n//# sourceURL=webpack:///external_%22electron%22?");
+
+/***/ }),
+
+/***/ "path":
+/*!***********************!*\
+  !*** external "path" ***!
+  \***********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = require(\"path\");\n\n//# sourceURL=webpack:///external_%22path%22?");
 
 /***/ })
 
