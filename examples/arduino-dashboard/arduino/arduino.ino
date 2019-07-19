@@ -1,4 +1,3 @@
-
 int dataPoint1 = 0;
 int dataPoint2 = 0;
 int dataPoint3 = 0;
@@ -6,8 +5,7 @@ int dataPoint4 = 0;
 
 void setup()
 {
-    Serial.begin(115200);
-  // put your setup code here, to run once:
+  Serial.begin(115200);
 }
 
 void loop()
@@ -16,9 +14,10 @@ void loop()
   dataPoint2 = random(100, 200);
   dataPoint3 = random(100, 200);
   dataPoint4 = random(100, 200);
+
   Serial.print(dataPoint1);
   Serial.print(",");
-  
+
   Serial.print(dataPoint2);
   Serial.print(",");
 
@@ -26,5 +25,6 @@ void loop()
   Serial.print(",");
 
   Serial.println(dataPoint4);
+  
   delay(1000);
 }
