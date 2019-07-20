@@ -3,7 +3,9 @@ Simple sketch that shows a doughnut chart of the CPU system, user, and idle acti
 
 > Note: This project is inspired from [this electron sample app.](https://github.com/electron/simple-samples/tree/master/activity-monitor)
 
-![image](https://i.imgur.com/oSEeu18.png)
+<p align="left">
+    <img src="https://i.imgur.com/oSEeu18.png" width="500">
+</p>
 
 ## Getting started
 
