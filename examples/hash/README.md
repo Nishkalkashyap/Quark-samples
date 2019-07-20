@@ -18,8 +18,7 @@ Simple sketch that shows the hash values of entered text using different algorit
 
 Here are some ideas on how it can be improved using other Quark API's.
 
-- Add tooltips that show times in hours/days instead of milliseconds
-- Support exporting CPU times to a comma-separated (.csv) file
-- Support saving chart as PNG
-- Support copying chart image to clipboard
-- Add second chart of free vs. used memory
+- Make headings links that open to Wikipedia page for algorithm.
+- Support dragging/dropping a file to hash onto the window.
+- Support opening a file via a dialog to hash from the app's menu.
+- Display time taken to compute each hash.
