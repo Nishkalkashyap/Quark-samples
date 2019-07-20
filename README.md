@@ -12,6 +12,8 @@ git clone https://github.com/Nishkalkashyap/Quark-samples
 
 Each folder in `examples` directory contains a different app with its own `README.md` file explaining what it does, how to run it, and how it could be improved.
 
+And each folder in `libraries` directory contains a Quark sketch describing how to use various libraries and frameworks in Quark. e.g. using `React.js`, `Vue.js`, `Serialport` and `Electron`.
+
 ## Links
 * [Quark website](https://quarkjs.io)
 * [Quark github repo](https://github.com/Nishkalkashyap/Quark-docs)
