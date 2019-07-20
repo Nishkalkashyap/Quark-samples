@@ -25,7 +25,7 @@ __Datalogger:__ A data logger that will read data from arduino and save it on yo
 ## Getting started
 
 - Clone this repository
-- `cd examples/activity-monitor`
+- `cd examples/arduino-dashboard`
 - Upload sketch to the arduino.
 - Open project file `arduino-dashboard.qrk`, or build file `arduino-dashboard.build.qrk` in Quark.
 
