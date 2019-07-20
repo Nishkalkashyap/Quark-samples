@@ -6,15 +6,21 @@ Create a dashboard and a data logger for Arduino.
 ## Features
 - __Serialport selector:__ A graphical user interface component that allows you to select the serialport for your Arduino.
 
-<img src="https://i.imgur.com/fPOeavH.png" width="500">
+<div style="text-align:center">
+    <img src="https://i.imgur.com/fPOeavH.png" width="500">
+</div>
 
 - __Dashboard:__ A dashboard that prints the real time values on the screen and also draws charts.
 
-<img src="https://i.imgur.com/GuQHONO.png" width="500">
+<div style="text-align:center">
+    <img src="https://i.imgur.com/GuQHONO.png" width="500">
+</div>
 
 - __Datalogger:__ A data logger that will read data from arduino and save it on your computer in csv format.
 
-<img src="https://i.imgur.com/a7a4CmV.png" width="500">
+<div style="text-align:center">
+    <img src="https://i.imgur.com/a7a4CmV.png" width="500">
+</div>
 
 ## Getting started
 
