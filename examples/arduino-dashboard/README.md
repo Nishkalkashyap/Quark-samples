@@ -22,6 +22,12 @@ __Datalogger:__ A data logger that will read data from arduino and save it on yo
     <img src="https://i.imgur.com/a7a4CmV.png" width="500">
 </p>
 
+## Using the build file
+* First upload the arduino sketch.
+* Now connect the dashboard to the arduino. Select the serialport of your arduino by pressing `ctrl+p`.
+* Now, to use the data logger, open the [commands palette](https://quarkjs.io/guide/quark-ide.html#command-palette) by pressing `ctrl+shift+p`, and select `Datalogger: Start` command. This will start the data logger.
+* To stop the data logger, open the commands palette and select command `Datalogger: Stop`. This will stop the data logger and open a save dialog.
+
 ## Getting started
 
 - Clone this repository
