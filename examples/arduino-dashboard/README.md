@@ -22,18 +22,25 @@ __Datalogger:__ A data logger that will read data from arduino and save it on yo
     <img src="https://i.imgur.com/a7a4CmV.png" width="500">
 </p>
 
-## Using the build file
-* First upload the arduino sketch.
-* Now connect the dashboard to the arduino. Select the serialport of your arduino by pressing `ctrl+p`.
-* Now, to use the data logger, open the [commands palette](https://quarkjs.io/guide/quark-ide.html#command-palette) by pressing `ctrl+shift+p`, and select `Datalogger: Start` command. This will start the data logger.
-* To stop the data logger, open the commands palette and select command `Datalogger: Stop`. This will stop the data logger and open a save dialog.
+<!-- ## Using the sketch
+- First upload the `arduino.ino` file to the arduino.
+- Open the sketch 
+- Now connect the dashboard to the arduino. Select the serialport of your arduino by pressing `ctrl+p`.
+- Now, to use the data logger, open the [commands palette](https://quarkjs.io/guide/quark-ide.html#command-palette) by pressing `ctrl+shift+p`, and select `Datalogger: Start` command. This will start the data logger.
+* To stop the data logger, open the commands palette and select command `Datalogger: Stop`. This will stop the data logger and open a save dialog. -->
 
 ## Getting started
 
 - Clone this repository
 - `cd examples/arduino-dashboard`
-- Upload sketch to the arduino.
-- Open project file `arduino-dashboard.qrk`, or build file `arduino-dashboard.build.qrk` in Quark.
+- Upload the `arduino.ino` file to the arduino.
+- Open project file `arduino-dashboard.qrk` to edit project, or build file `arduino-dashboard.build.qrk` to run the project in Quark.
+
+## Using sketch
+- Open the build file `arduino-dashboard.build.qrk` in Quark.
+- Press `ctrl+p` and select the COM port of your arduino.
+- To start the data logger, open the [commands palette](https://quarkjs.io/guide/quark-ide.html#command-palette) by pressing `ctrl+shift+p`, and select `Datalogger: Start` command. You will see a notification on the bottom right of your screen if the logger was started.
+- To stop the data logger, open the commands palette and select command `Datalogger: Stop`. This will open a save dialog where you can enter the path of the file where you want to save your data.
 
 ## Going further
 
