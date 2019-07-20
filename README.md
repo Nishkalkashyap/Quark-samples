@@ -1,6 +1,8 @@
 # Quark samples
 Sample Quark projects with ideas for taking them further.
 
+![image](https://i.imgur.com/vnvEMNx.gif)
+
 ## Getting Started
 The first thing to do is to install Quark, if you haven't already. You can download it from [here.](https://quarkjs.io/download)
 
