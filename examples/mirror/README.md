@@ -11,7 +11,7 @@ Simple sketch that plays a video of the computer's camera at a maximized size li
 
 ## Going further
 
-Here are some ideas on how it can be improved using other Quark API's.
+Here are some ideas on how it can be improved using other [Quark API's.](https://quarkjs.io/references/)
 
 - Add support for saving current image to a local `.png` file.
 - Support drawing directly on the mirror using the mouse.

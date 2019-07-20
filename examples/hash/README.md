@@ -15,7 +15,7 @@ Simple sketch that shows the hash values of entered text using different algorit
 
 ## Going further
 
-Here are some ideas on how it can be improved using other Quark API's.
+Here are some ideas on how it can be improved using other [Quark API's.](https://quarkjs.io/references/)
 
 - Make headings links that open to Wikipedia page for algorithm.
 - Support dragging/dropping a file to hash onto the window.

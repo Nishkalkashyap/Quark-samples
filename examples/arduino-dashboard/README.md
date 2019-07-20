@@ -49,7 +49,7 @@ __Datalogger:__ A data logger that will read data from arduino and save it on yo
 
 ## Going further
 
-Here are some ideas on how it can be improved using other Quark API's.
+Here are some ideas on how it can be improved using other [Quark API's.](https://quarkjs.io/references/)
 
 - Add buttons on status bar to start or stop data logger.
 - Convert the bar chart into a pie chart.

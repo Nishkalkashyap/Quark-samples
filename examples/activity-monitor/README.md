@@ -15,7 +15,7 @@ Simple sketch that shows a doughnut chart of the CPU system, user, and idle acti
 
 ## Going further
 
-Here are some ideas on how it can be improved using other Quark API's.
+Here are some ideas on how it can be improved using other [Quark API's.](https://quarkjs.io/references/)
 
 - Add tooltips that show times in hours/days instead of milliseconds
 - Support exporting CPU times to a comma-separated (.csv) file

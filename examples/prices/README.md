@@ -16,7 +16,7 @@ Simple sketch that shows the current price of oil, gold, and silver using the ST
 
 ## Going further
 
-Here are some ideas on how it can be improved using other Quark API's.
+Here are some ideas on how it can be improved using other [Quark API's.](https://quarkjs.io/references/)
 
 - Double-click commodity to open directly on https://stooq.com
 - Add the price of platinum (`PL=F`) to the app.
