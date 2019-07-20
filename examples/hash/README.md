@@ -1,18 +1,18 @@
-# Activity Monitor
-Simple sketch that shows a doughnut chart of the CPU system, user, and idle activity time.
+# Hash
+Simple sketch that shows the hash values of entered text using different algorithms.
 
-> Note: This project is inspired from [this electron sample app.](https://github.com/electron/simple-samples/tree/master/activity-monitor)
+> Note: This project is inspired from [this electron sample app.](https://github.com/electron/simple-samples/tree/master/hash)
 
 <p align="left">
-    <img src="https://i.imgur.com/oSEeu18.png" width="500">
+    <img src="https://i.imgur.com/VVCZOHo.png" width="500">
 </p>
 
 ## Getting started
 
 - Clone this repository
-- `cd examples/activity-monitor`
+- `cd examples/hash`
 - Upload sketch to the arduino.
-- Open project file `activity-monitor.qrk`, or build file `activity-monitor.build.qrk` in Quark.
+- Open project file `hash.qrk`, or build file `hash.build.qrk` in Quark.
 
 ## Going further
 
