@@ -11,7 +11,6 @@ Simple sketch that shows a doughnut chart of the CPU system, user, and idle acti
 
 - Clone this repository
 - `cd examples/activity-monitor`
-- Upload sketch to the arduino.
 - Open project file `activity-monitor.qrk`, or build file `activity-monitor.build.qrk` in Quark.
 
 ## Going further

@@ -11,7 +11,6 @@ Simple sketch that shows the hash values of entered text using different algorit
 
 - Clone this repository
 - `cd examples/hash`
-- Upload sketch to the arduino.
 - Open project file `hash.qrk`, or build file `hash.build.qrk` in Quark.
 
 ## Going further
