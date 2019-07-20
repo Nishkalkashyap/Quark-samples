@@ -1,5 +1,5 @@
 # Arduino Dashboard
-Create a dashboard and a data logger for Arduino.
+Create a dashboard and a data logger for Arduino in javascript with [node-serialport](https://www.npmjs.com/package/serialport) library. __Under 250 lines of code!!__ 😁
 
 ![image](https://i.imgur.com/vnvEMNx.gif)
 
