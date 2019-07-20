@@ -6,7 +6,7 @@ Create a dashboard and a data logger for Arduino.
 ## Features
 - __Serialport selector:__ A graphical user interface component that allows you to select the serialport for your Arduino.
 
-![image](https://i.imgur.com/fPOeavH.png | width=300)
+<img src="https://i.imgur.com/fPOeavH.png" width="300">
 
 - __Dashboard:__ A dashboard that prints the real time values on the screen and also draws charts.
 
