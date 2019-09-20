@@ -3,6 +3,12 @@ Sample [Quark](https://quarkjs.io) projects with ideas for taking them further.
 
 ![image](https://i.imgur.com/vnvEMNx.gif)
 
+<div>
+<img src="https://i.imgur.com/oSEeu18.png" alt="Quark app screenshot" width="280"/>
+<img src="https://i.imgur.com/VVCZOHo.png" alt="Quark app screenshot" width="280"/>
+<img src="https://i.imgur.com/fYmDv8w.png" alt="Quark app screenshot" width="280"/>
+</div>
+
 ## Getting Started
 The first thing to do is to install Quark, if you haven't already. You can [download it from here.](https://quarkjs.io/download)
 
