@@ -4,9 +4,9 @@ Sample [Quark](https://quarkjs.io) projects with ideas for taking them further.
 ![image](https://i.imgur.com/vnvEMNx.gif)
 
 <div>
-<img src="https://i.imgur.com/oSEeu18.png" alt="Quark app screenshot" width="280"/>
-<img src="https://i.imgur.com/VVCZOHo.png" alt="Quark app screenshot" width="280"/>
-<img src="https://i.imgur.com/fYmDv8w.png" alt="Quark app screenshot" width="280"/>
+<img src="https://i.imgur.com/oSEeu18.png" alt="Quark app screenshot" width="245"/>
+<img src="https://i.imgur.com/VVCZOHo.png" alt="Quark app screenshot" width="315"/>
+<img src="https://i.imgur.com/fYmDv8w.png" alt="Quark app screenshot" width="265"/>
 </div>
 
 ## Getting Started
