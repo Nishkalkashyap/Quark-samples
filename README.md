@@ -1,7 +1,10 @@
 # Quark samples
 Sample [Quark](https://quarkjs.io) projects with ideas for taking them further.
 
-![image](https://i.imgur.com/vnvEMNx.gif)
+<!-- ![image](https://i.imgur.com/vnvEMNx.gif) -->
+<p align="center">
+<img src="https://i.imgur.com/vnvEMNx.gif" alt="Quark app screenshot" width="480"/>
+</p>
 
 <div>
 <img src="https://i.imgur.com/oSEeu18.png" alt="Quark app screenshot" width="245"/>
